@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on  <br>E-commerce order & logistics flow using OTO API V2 (Orders, Shipments, Tracking)<br><br>👯 I’m looking to collaborate on  <br>React.js / Next.js projects and real-world SaaS or E-commerce applications<br><br>🤝 I’m looking for help with  <br>Optimizing order flow, shipment status handling, and webhook-based tracking systems<br><br>🌱 I’m currently learning  <br>Next.js (App Router, RSC, SSR, SSG) and advanced backend integrations<br><br>💬 Ask me about  <br>React.js, Next.js, Redux Toolkit, REST APIs, authentication, and order management systems<br><br>⚡ Fun fact  <br>I enjoy solving complex order & delivery flows more than building simple UIs 😄<br>
+🔭 I’m currently working on  <br>Saviesa Infotech as a MERN Stack Developer, building full-stack web applications using MongoDB, Express, React, and Node.js.<br><br>👯 I’m looking to collaborate on  <br>MERN stack projects, startups, and real-world products where I can work on both frontend and backend.<br><br>🤝 I’m looking for help with  <br>Scaling MERN applications, system design, and clean backend architecture.<br><br>🌱 I’m currently learning  <br>Advanced Next.js, backend optimization, and production-level MERN practices.<br><br>💬 Ask me about  <br>MERN stack, React.js, Node.js, Express, MongoDB, REST APIs, and authentication.<br><br>⚡ Fun fact  <br>I enjoy debugging backend issues as much as building frontend UIs 😄<br>
 
 
 # 💻 Tech Stack:
